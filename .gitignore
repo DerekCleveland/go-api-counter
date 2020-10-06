@@ -1,0 +1,12 @@
+# IDE
+.idea/
+
+# Mac files
+.DS_Store
+
+# Ignore files
+cpu.prof
+mem.prof
+
+# Ignore binaries
+cmd/GoApiCounter/GoApiCounter
